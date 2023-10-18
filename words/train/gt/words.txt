@@ -86,8 +86,8 @@
 92-P001-L009-W002 c|o|n|c|u|r|r|i|e|r|o|n
 92-P001-L009-W003 y
 92-P001-L009-W005 h|o|s|p|e|d|a|r|o|n
-92-P001-L009-W006 y|g|u|a|l|m|e|nt|e
-92-P001-L010-W001 r|e|f|er|i|d|o
+92-P001-L009-W006 y|g|u|a|l|m|e|n|t|e
+92-P001-L010-W001 r|e|f|e|r|i|d|o
 92-P001-L010-W002 D|o|m|i|n|g|o
 92-P001-L010-W003 P|a|t|r|o|n
 92-P001-L010-W004 o|n|c|e
